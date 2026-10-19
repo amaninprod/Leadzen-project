@@ -1,70 +1,104 @@
-# Getting Started with Create React App
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Leadzen+Project;Lead+Management+System;HTML+%B7+CSS+%B7+JavaScript" alt="Typing SVG" />
+</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+  <a href="https://github.com/Aman-746/Leadzen-project/stargazers">
+    <img src="https://img.shields.io/github/stars/Aman-746/Leadzen-project?style=for-the-badge&logo=github&color=FFD700&labelColor=111827" alt="Stars"/>
+  </a>
+  <a href="https://github.com/Aman-746/Leadzen-project/commits/main">
+    <img src="https://img.shields.io/github/last-commit/Aman-746/Leadzen-project?style=for-the-badge&logo=github&color=10B981&labelColor=111827" alt="Last Commit"/>
+  </a>
+</p>
 
-## Available Scripts
+<p align="center">
+  <a href="https://www.linkedin.com/in/amaninprod/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-aman--kumar--41090a200-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:aman04012000@gmail.com">
+    <img src="https://img.shields.io/badge/Email-aman04012000@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## 📖 Overview
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+**Leadzen Project** is a lead management system front-end application. It helps businesses capture, organize, and track leads through the sales funnel with an intuitive user interface.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+> 🎯 **Purpose:** Lead management CRM front-end
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## ✨ Features
 
-### `npm run build`
+| Feature | Description |
+|---------|-------------|
+| 👥 **Lead Management** | Capture and organize leads |
+| 📊 **Sales Funnel** | Track leads through pipeline stages |
+| 🔍 **Search & Filter** | Find leads quickly |
+| 📱 **Responsive** | Works on all devices |
+| 🎨 **Clean UI** | Professional dashboard design |
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 🛠️ Tech Stack
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+| Layer | Technologies |
+|-------|-------------|
+| **Frontend** | <a href="https://reactjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="24" height="24"/></a> React · JavaScript · HTML/CSS |
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## 📁 Project Structure
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+```
+Leadzen-project/
+├── src/                # React source code
+├── public/             # Public assets
+├── package.json
+├── package-lock.json
+└── README.md
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+---
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## 🚀 Quick Start
 
-## Learn More
+```bash
+# Clone the repository
+git clone https://github.com/Aman-746/Leadzen-project.git
+cd Leadzen-project
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+# Install dependencies
+npm install
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+# Start development server
+npm start
+```
 
-### Code Splitting
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## 🔮 Future Enhancements
 
-### Analyzing the Bundle Size
+- [ ] Backend API for lead storage
+- [ ] User authentication
+- [ ] Lead scoring system
+- [ ] Email integration
+- [ ] Analytics dashboard
+- [ ] Export leads to CSV
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+---
 
-### Making a Progressive Web App
+## 📞 Contact
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+**Aman Kumar** — Full Stack Developer | AI Engineer
 
-### Advanced Configuration
+📧 aman04012000@gmail.com &nbsp;•&nbsp; 📱 +91-7462933412 &nbsp;•&nbsp; 🇮🇳 India  
+🔗 [LinkedIn](https://www.linkedin.com/in/amaninprod/) &nbsp;•&nbsp; [GitHub](https://github.com/Aman-746)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+---
 
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aman-746&repo=Leadzen-project&label=Repo%20views&color=0e75b6&style=flat-square&start=2000" alt="Repo views"/>
+</p>
